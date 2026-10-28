@@ -1,0 +1,6 @@
+{
+  "name": "Kitobxon",
+  "description": "O'zbek va jahon adabiyoti kitob do'koni, qulay elektron o'quvchi hamda yetkazib berish va to'lov xizmati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

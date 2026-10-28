@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Kitobxon</string>
+
+    <!-- Navigation -->
+    <string name="nav_store">Do\'kon</string>
+    <string name="nav_library">Kutubxonam</string>
+    <string name="nav_cart">Savatcha</string>
+    <string name="nav_orders">Buyurtmalar</string>
+
+    <!-- Storefront -->
+    <string name="store_greeting_subtitle">Mutolaa va kitob yetkazib berish xizmati</string>
+    <string name="store_hero_badge">Hafta tanlovi</string>
+    <string name="store_hero_title">O\'zbek va jahon durdonalari bir makonda</string>
+    <string name="store_hero_desc">Sevimli kitoblaringizni ilovaning o\'zida o\'qing yoki uyingizgacha yetkazib berish orqali xarid qiling.</string>
+    <string name="store_search_placeholder">Kitob nomi yoki muallifni qidiring…</string>
+    <string name="store_clear_search">Qidiruvni tozalash</string>
+    <string name="store_continue_reading">Mutolaani davom ettirish</string>
+    <string name="store_resume_btn">Davom etish</string>
+    <string name="store_bestsellers">Eng ko\'p sotilganlar</string>
+    <string name="store_free_ebooks_section">Bepul elektron mutolaa</string>
+    <string name="store_all_books">Barcha kitoblar</string>
+    <string name="store_empty_search_title">Kitob topilmadi</string>
+    <string name="store_empty_search_desc">Boshqa kalit so\'z bilan qidirib ko\'ring yoki barcha bo\'limlarni tanlang.</string>
+    <string name="store_reset_filters">Filtrlarni tiklash</string>
+
+    <!-- Categories -->
+    <string name="cat_all">Barchasi</string>
+    <string name="cat_uzbek">O\'zbek adabiyoti</string>
+    <string name="cat_world">Jahon adabiyoti</string>
+    <string name="cat_self_dev">Shaxsiy rivojlanish</string>
+    <string name="cat_science_kids">Bolalar va ilmiy</string>
+
+    <!-- Sort -->
+    <string name="sort_popular">Ommabop</string>
+    <string name="sort_price_low">Arzonroq</string>
+    <string name="sort_price_high">Qimmatroq</string>
+    <string name="sort_rating">Yuqori reyting</string>
+
+    <!-- Book Badges & Formats -->
+    <string name="badge_free_ebook">Bepul o\'qish</string>
+    <string name="badge_unlocked">Ochiq kitob</string>
+    <string name="badge_bestseller">Xit kitob</string>
+    <string name="format_print_title">Bosma kitob (Yetkazib berish)</string>
+    <string name="format_print_subtitle">Qattiq muqova + Elektron kitob sovg\'a</string>
+    <string name="format_ebook_title">Elektron kitob (Ilovada o\'qish)</string>
+    <string name="format_ebook_subtitle">To\'lovdan so\'ng darhol ochiladi</string>
+    <string name="price_free">Bepul</string>
+    <string name="btn_read_now">Hoziroq o\'qish</string>
+    <string name="btn_read_sample">1-bobni bepul o\'qish</string>
+    <string name="btn_add_to_cart">Savatga qo\'shish</string>
+    <string name="btn_in_cart">Savatga o\'tish</string>
+    <string name="btn_buy_instant_ebook">Elektron xarid qilish</string>
+
+    <!-- Book Detail -->
+    <string name="detail_back">Orqaga qaytish</string>
+    <string name="detail_favorite_add">Sevimlilarga qo\'shish</string>
+    <string name="detail_favorite_remove">Sevimlilardan olib tashlash</string>
+    <string name="detail_pages_label">Sahifalar</string>
+    <string name="detail_year_label">Nashr yili</string>
+    <string name="detail_lang_label">Til</string>
+    <string name="detail_synopsis_title">Kitob haqida</string>
+    <string name="detail_chapters_title">Mundarija va mutolaa</string>
+    <string name="detail_reviews_title">Kitobxonlar fikrlari</string>
+    <string name="detail_write_review">Fikr qoldirish</string>
+    <string name="review_dialog_title">Kitob haqida fikringiz</string>
+    <string name="review_name_label">Ismingiz</string>
+    <string name="review_comment_label">Taassurotingizni yozing</string>
+    <string name="review_submit">Saqlash</string>
+    <string name="review_cancel">Bekor qilish</string>
+
+    <!-- Reader -->
+    <string name="reader_toc">Mundarija</string>
+    <string name="reader_settings">Harf va fon sozlamalari</string>
+    <string name="reader_bookmark">Xatcho\'p qo\'shish</string>
+    <string name="reader_prev_chapter">Oldingi bob</string>
+    <string name="reader_next_chapter">Keyingi bob</string>
+    <string name="reader_locked_title">Keyingi boblarni to\'liq o\'qing</string>
+    <string name="reader_locked_desc">Ushbu kitobning 1-bobi bepul tanishish uchun ochiq. To\'liq boblarni o\'qish uchun elektron nashrni yoki bosma kitobni xarid qiling (bosma kitob xaridida elektron nashr bepul qo\'shib beriladi).</string>
+    <string name="reader_unlock_ebook_btn">Elektron kitobni savatga qo\'shish</string>
+    <string name="reader_order_print_btn">Bosma kitob buyurtma qilish</string>
+    <string name="reader_font_size">Harf o\'lchami</string>
+    <string name="reader_theme_label">Sahifa rangi</string>
+    <string name="reader_font_style">Shrift turi</string>
+    <string name="reader_font_serif">Adabiy</string>
+    <string name="reader_font_sans">Zamonaviy</string>
+    <string name="reader_line_spacing">Satrlar orasi</string>
+    <string name="reader_spacing_normal">O\'rtacha</string>
+    <string name="reader_spacing_wide">Keng</string>
+    <string name="bookmark_dialog_title">Xatcho\'p saqlash</string>
+    <string name="bookmark_note_label">Qayd yoki eslatma (ixtiyoriy)</string>
+
+    <!-- Library -->
+    <string name="library_title">Mening kutubxonam</string>
+    <string name="library_tab_reading">O\'qilmoqda</string>
+    <string name="library_tab_unlocked">Kitoblarim</string>
+    <string name="library_tab_favorites">Saqlangan</string>
+    <string name="library_tab_bookmarks">Xatcho\'plar</string>
+    <string name="library_empty_reading">Hozircha mutolaa boshlanmagan. Do\'kondan istalgan kitobni tanlab o\'qishni boshlang!</string>
+    <string name="library_empty_favorites">Sevimli kitoblaringiz ro\'yxati bo\'sh. Kitob sahifasidagi yurakcha tugmasini bosing.</string>
+    <string name="library_empty_bookmarks">Saqlangan xatcho\'plar yo\'q. O\'qish vaqtida xatcho\'p belgisini bosib muhim joylarni belgilang.</string>
+
+    <!-- Cart -->
+    <string name="cart_title">Savatcha</string>
+    <string name="cart_empty_title">Savatchangiz bo\'sh</string>
+    <string name="cart_empty_desc">Do\'kondan bosma yoki elektron kitoblarni tanlab savatchaga qo\'shing.</string>
+    <string name="cart_browse_store">Kitoblarni ko\'rish</string>
+    <string name="cart_promo_label">Promokod kiriting</string>
+    <string name="cart_promo_apply">Qo\'llash</string>
+    <string name="cart_subtotal">Kitoblar qiymati</string>
+    <string name="cart_discount">Chegirma</string>
+    <string name="cart_delivery_est">Yetkazib berish</string>
+    <string name="cart_total">Jami to\'lov</string>
+    <string name="cart_checkout_btn">Rasmiylashtirish va to\'lov</string>
+
+    <!-- Checkout & Delivery & Payment -->
+    <string name="checkout_title">Buyurtma va yetkazib berish</string>
+    <string name="checkout_step_delivery">1. Yetkazib berish turi (Dostavka)</string>
+    <string name="checkout_step_address">2. Qabul qiluvchi va manzil</string>
+    <string name="checkout_step_payment">3. To\'lov tizimini tanlang</string>
+    <string name="delivery_express">Tezkor kuryer (2–4 soatda)</string>
+    <string name="delivery_express_desc">Toshkent shahri bo\'ylab eshik oldigacha tezkor yetkazish</string>
+    <string name="delivery_standard">Viloyatlarga yetkazib berish (1–3 kun)</string>
+    <string name="delivery_standard_desc">O\'zbekistonning barcha viloyat va tumanlariga kuryer pochtasi</string>
+    <string name="delivery_pickup">Topshirish punktidan olish (Bepul)</string>
+    <string name="delivery_pickup_desc">O\'zingizga yaqin Kitobxon nuqtasidan olib ketish</string>
+    <string name="delivery_digital">Raqamli yetkazish (Darhol)</string>
+    <string name="delivery_digital_desc">To\'lov tasdiqlanishi bilan Kutubxonam bo\'limida ochiladi</string>
+    <string name="field_recipient_name">Ism va familiya</string>
+    <string name="field_phone">Telefon raqami (+998)</string>
+    <string name="field_region">Viloyat yoki shahar</string>
+    <string name="field_address">Ko\'cha, uy va xonadon raqami</string>
+    <string name="field_courier_note">Kuryer uchun mo\'ljal yoki izoh</string>
+    <string name="save_address_checkbox">Manzilni keyingi buyurtmalar uchun saqlash</string>
+
+    <!-- Payment Systems -->
+    <string name="pay_click">Click Up</string>
+    <string name="pay_click_desc">Click ilovasi yoki SMS-xabarnoma orqali tezkor to\'lov</string>
+    <string name="pay_payme">Payme</string>
+    <string name="pay_payme_desc">Payme hamyoni yoki ulangan karta orqali xavfsiz to\'lov</string>
+    <string name="pay_card">Uzcard / Humo karta</string>
+    <string name="pay_card_desc">8600 / 9860 bank kartalari orqali bevosita onlayn to\'lov</string>
+    <string name="pay_uzum">Uzum Bank</string>
+    <string name="pay_uzum_desc">Uzum Bank tez to\'lov tizimi orqali</string>
+    <string name="pay_cash">Yetkazilganda to\'lash (Naqd / Terminal)</string>
+    <string name="pay_cash_desc">Kitob qo\'lingizga yetib kelganda kuryerga to\'laysiz</string>
+    <string name="field_card_number">Karta raqami (16 ta raqam)</string>
+    <string name="field_card_expiry">Amal qilish muddati (OO/YY)</string>
+    <string name="field_payment_phone">To\'lov tizimiga ulangan raqam</string>
+    <string name="checkout_pay_now_btn">To\'lash va buyurtma berish</string>
+    <string name="checkout_confirm_cash_btn">Buyurtmani tasdiqlash</string>
+
+    <!-- OTP Verification & Order Success -->
+    <string name="otp_dialog_title">To\'lovni SMS kod bilan tasdiqlash</string>
+    <string name="otp_code_label">4 xonali tasdiqlash kodi</string>
+    <string name="otp_confirm_btn">To\'lovni tasdiqlash</string>
+    <string name="order_success_title">Buyurtmangiz qabul qilindi!</string>
+    <string name="order_track_btn">Buyurtmalarim va kuzatuv</string>
+    <string name="order_read_ebook_btn">Kutubxonamga o\'tish</string>
+
+    <!-- Orders & Tracking -->
+    <string name="orders_title">Buyurtmalar va yetkazib berish</string>
+    <string name="orders_empty_title">Hozircha buyurtmalar yo\'q</string>
+    <string name="orders_empty_desc">Xarid qilingan kitoblar, elektron cheklar va kuryer kuzatuvi shu yerda ko\'rinadi.</string>
+    <string name="status_confirmed">Qabul qilindi</string>
+    <string name="status_packing">Qadoqlanmoqda</string>
+    <string name="status_on_the_way">Kuryer yo\'lda</string>
+    <string name="status_delivered">Yetkazib berildi</string>
+    <string name="status_cancelled">Bekor qilindi</string>
+    <string name="orders_advance_status">Kuzatuvni keyingi bosqichga o\'tkazish</string>
+    <string name="orders_show_receipt">Elektron to\'lov cheki</string>
+</resources>
